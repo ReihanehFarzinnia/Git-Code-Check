@@ -1,5 +1,6 @@
 # Git-Code-Check
 
+#Chat GPT :)
 # Create a vector of random integers between 1 and 100
 rand_ints <- sample(1:100, 10, replace = TRUE)
 
