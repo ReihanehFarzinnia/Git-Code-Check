@@ -30,3 +30,4 @@ title(main = "Ages of People", xlab = "Person", ylab = "Age")
 
 # Fit a linear regression model to the ages in the data frame
 model <- lm(ages ~ names, data = df)
+#hi here's my comment
